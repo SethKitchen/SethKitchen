@@ -13,6 +13,10 @@ I'm coming for you Elon! Actually I want to asteroid mine instead of Mars.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SethKitchen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Seth's GitHub Stats" />
 </a>
 
+<a href="https://github.com/SethKitchen/SoilMechanics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SethKitchen&repo=SoilMechanics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/SethKitchen/SARAR5ESP32PCB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SethKitchen&repo=SARAR5ESP32PCB&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
