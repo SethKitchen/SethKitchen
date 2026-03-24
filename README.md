@@ -1,4 +1,11 @@
-[![Header](https://media-exp1.licdn.com/dms/image/C4E16AQF4R75cBpazBA/profile-displaybackgroundimage-shrink_350_1400/0/1524265645239?e=1613606400&v=beta&t=7HdekPKVvEc49aBGQIPAkxiJsJB648VVJ0IYKQaa75Q "Header")](https://www.youtube.com/channel/UCQvo72qI0arkpp_ebMvynAQ)
+<a href="https://www.youtube.com/channel/UCQvo72qI0arkpp_ebMvynAQ">
+  <img
+    src="https://seth.kitchen/assets/headshot-rRsSrb72.webp"
+    alt="Header"
+    title="Header"
+    width="220"
+  />
+</a>
 
 # 🚀 From software to space!
 
@@ -13,12 +20,8 @@ I'm coming for you Elon! Actually I want to asteroid mine instead of Mars.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SethKitchen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Seth's GitHub Stats" />
 </a>
 
-<a href="https://github.com/SethKitchen/SoilMechanics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SethKitchen&repo=SoilMechanics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/SethKitchen/SARAR5ESP32PCB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SethKitchen&repo=SARAR5ESP32PCB&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/SethKitchen/Engineering-Standard-Library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SethKitchen&repo=Engineering-Standard-Library&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
